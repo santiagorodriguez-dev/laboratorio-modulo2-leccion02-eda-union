@@ -1,4 +1,5 @@
 #  Laboratorio Pandas (EDA y Unión de Datos)
+### Análisis y Enriquecimiento del Catálogo de Netflix
 ###  Parte 1: Análisis Exploratorio de Datos (EDA)
 Después del análisis, llegamos a la conclusión que el director con mas películas es: "Rajiv Chilaka", que el país que mas películas produce es: "United States" y que la duración media de las películas es: "90 min".
 
